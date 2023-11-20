@@ -41,5 +41,8 @@
     "@storybook/preset-create-react-app": "3.1.7",
     "@storybook/react": "6.5.15",
     "webpack": "4.44.2"
+  },
+  "volta": {
+    "node": "14.21.3"
   }
 }
